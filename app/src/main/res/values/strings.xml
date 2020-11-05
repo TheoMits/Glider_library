@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Glider_library</string>
+    <string name="todo">TODO</string>
+    <string name="athens">ATHENS</string>
+    <string name="paris">PARIS</string>
+    <string name="london">LONDON</string>
+</resources>
